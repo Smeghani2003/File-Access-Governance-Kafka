@@ -1,0 +1,7 @@
+*.dll
+*.exe
+Bin
+Obj
+Debug
+Release
+.DS_Store
